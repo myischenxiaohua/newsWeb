@@ -14,4 +14,7 @@ public class AdminServiceImpl implements AdminService {
     public void admin() {
         String cxh="陈晓华";
     }
+    public void xm1(){
+        String name="胡涛";
+    }
 }
