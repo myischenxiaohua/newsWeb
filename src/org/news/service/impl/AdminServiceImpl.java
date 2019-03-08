@@ -14,4 +14,9 @@ public class AdminServiceImpl implements AdminService {
     public void admin() {
         String cxh="陈晓华";
     }
+
+    @java.lang.Override
+    public void xm2() {
+        String name="陈发保";
+    }
 }
