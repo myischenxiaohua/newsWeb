@@ -18,5 +18,6 @@ public class AdminServiceImpl implements AdminService {
     @java.lang.Override
     public void xm2() {
         String name="陈发保";
+        String pwd="123456";
     }
 }
