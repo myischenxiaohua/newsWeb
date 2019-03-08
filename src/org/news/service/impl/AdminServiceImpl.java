@@ -1,17 +1,10 @@
-package org.news.service.impl; /*
- ClassName:org.news.service.impl
- Description:
- User: myischenxiaohua@163.com
- Date: 2019-03-08
- Time: 9:15
- */
+package org.news.service.impl;
 
 import org.news.service.AdminService;
 
 public class AdminServiceImpl implements AdminService {
-
     @Override
-    public void admin() {
-        String cxh="陈晓华";
+    public void xm4() {
+        String bhw="白慧文";
     }
 }
