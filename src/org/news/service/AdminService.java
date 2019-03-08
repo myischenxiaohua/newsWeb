@@ -7,5 +7,8 @@ package org.news.service; /*
  */
 
 public interface AdminService {
-    void xm4();
+    void admin();
+    void  login();
+    void xm1();
+
 }
