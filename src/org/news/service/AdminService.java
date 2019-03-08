@@ -6,5 +6,6 @@ package org.news.service; /*
  Time: 9:07
  */
 
-public class AdminService {
+public interface AdminService {
+  void xm1();
 }
