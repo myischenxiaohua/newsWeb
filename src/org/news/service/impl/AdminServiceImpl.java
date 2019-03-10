@@ -15,12 +15,9 @@ public class AdminServiceImpl implements AdminService {
         String cxh="陈晓华";
     }
 
-    @Override
-    public void login() {
-        System.out.println("登录成功");
-    }
-
-    public void xm1(){
-        String name="胡涛";
+    @java.lang.Override
+    public void xm2() {
+        String name="陈发保";
+        String pwd="123456";
     }
 }

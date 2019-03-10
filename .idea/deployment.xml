@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="xm1">
+  <component name="PublishConfigData" serverName="xm2">
     <serverData>
-      <paths name="xm1">
+      <paths name="xm2">
         <serverdata>
           <mappings>
             <mapping deploy="/news" local="D:/server/tomcat-8.5.35/webapps/news" web="/" />
